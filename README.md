@@ -24,12 +24,12 @@ Before getting started, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone the repo main branch
+   git clone https://github.com/DEVMONTANNA/hndstage1.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd the game folder
+   cd hndstage1
    ```
 
 3. Install the dependencies:

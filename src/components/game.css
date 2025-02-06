@@ -1,0 +1,59 @@
+
+/* Overall game container styling */
+.game-container {
+  background: #f4f4f4;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Styling for the color buttons */
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+/* Styling for the color buttons */
+.colorButton {
+  width: 30%;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+.colorButton:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Styling for the start button */
+.start-button {
+  width: 60%;
+  height: 45px;
+  background-color: #6a4caf;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 20px;
+}
+
+.start-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}

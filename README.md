@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Guess The Color" is a simple and engaging React game that challenges players to guess the correct color from a selection of colors. The player is shown a target color box, and they must choose the correct color from a list of options. The game provides immediate feedback on whether the guess was correct, and players earn points for correct guesses while losing points for incorrect ones. The game continues until the user decides to start a new round.
+"Guess The Color" is a simple and engaging HNG stage 1 game that challenges players to guess the correct color from a selection of colors. The player is shown a target color box, and they must choose the correct color from a list of options. The game provides immediate feedback on whether the guess was correct, and players earn points for correct guesses while losing points for incorrect ones. The game continues until the user decides to start a new round.
 
 ## Features
 

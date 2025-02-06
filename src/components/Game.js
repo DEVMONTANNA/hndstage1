@@ -17,6 +17,7 @@ const Game = () => {
     setTargetColor(randomTargetColor);
     setColorOptions(randomOptions);
     setGameStatus("");
+    setScore(0);
   };
 
   // Initialize the game
